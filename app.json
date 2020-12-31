@@ -10,19 +10,6 @@
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
-  "sitemapLocation": "sitemap.json",
-  "subpackages": [
-    {
-      "root": "pagesC",
-      "pages": [
-        "cindex/cindex"
-      ]
-    },
-    {
-      "root": "pagesD",
-      "pages": [
-        "dindex/dindex"
-      ]
-    }
-  ]
+  "sitemapLocation": "sitemap.json"
+
 }
